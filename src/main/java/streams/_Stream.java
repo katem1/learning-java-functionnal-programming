@@ -9,10 +9,10 @@ public class _Stream {
 	public static void main(String[] args) {
 		
 		
-		List<Person> people= List.of(new Person("Katem", Gender.MALE ),
+		List<Person> people= List.of(new Person("Alex", Gender.MALE ),
 								new Person("Angel", Gender.FEMALE ),
 								new Person("Katrine", Gender.FEMALE ),
-								new Person("Khedhiri", Gender.MALE )
+								new Person("Jack", Gender.MALE )
 				);
 		
 //		people.stream().map(person -> person.name)
